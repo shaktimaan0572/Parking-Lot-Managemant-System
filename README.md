@@ -11,7 +11,7 @@ In this different types of vehicles can be parked at different floor by automati
                                                      Parking Lot Details
 1.To RUN the application directly 
 
-	(a).Goto ParkingLot->bin->Debug->application.exe.
+	(a).Goto Parking Lot->bin->Debug->Parking_Lot.exe.
 
 2.To EXECUTE the application on IDE :
 
