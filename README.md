@@ -8,7 +8,7 @@ In this different types of vehicles can be parked at different floor by automati
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-Parking Lot Details:
+                                                     Parking Lot Details
 
 (a).Configuration Details:
 
